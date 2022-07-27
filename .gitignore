@@ -1,3 +1,16 @@
+#temporary input and output folders
+inputs
+outputs
+
+#Unzipped tableau workbooks
+inputs/Image
+inputs/Data
+inputs/to use later
+
+#Archived files from main directory
+archive
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
