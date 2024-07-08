@@ -2,6 +2,8 @@
 inputs
 outputs
 
+.idea
+
 #Unzipped tableau workbooks
 inputs/Image
 inputs/Data
