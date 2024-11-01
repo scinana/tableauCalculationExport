@@ -86,7 +86,8 @@ def create_excel_from_dfs(dfs_to_use, excel_path):
         worksheet.set_header(header_x)
         worksheet.set_footer(footer_x)
 
-    writer.save()
+    #writer.save()
+    writer.close()
 
 
 def create_pdf_from_excel(path_excel, path_pdf, dfs_to_use):
